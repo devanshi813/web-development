@@ -1,0 +1,43 @@
+body{
+  background-color: green;
+}
+
+h1{
+  color: blue;
+  text-align:center;
+}
+
+h2{
+  color: grey;
+  font-weight:bolder;
+  text-align:center;
+}
+
+h3{
+  color: brown;
+  font-weight:italic;
+  text-align: center;
+}
+h4{
+  color: pink;
+  text-align:center;
+}
+div{
+  position: absolute;
+  top: 50px;
+  left: 600px;
+  height: 500px;
+  width: 500px;
+  background-color:black;
+  border: 2px solid red;
+}
+
+div#border{
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  width: 500px;
+  height: 250px;
+  background-color:white;
+  border: 1px solid blue;
+}
